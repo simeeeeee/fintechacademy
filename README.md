@@ -1,1 +1,1 @@
-# fintechacademy
+# react study
